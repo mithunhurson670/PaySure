@@ -1,0 +1,6 @@
+{
+  "name": "PaySure",
+  "description": "Professional MSME Financial Decision Platform - Smart Decisions, Safe Business",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
